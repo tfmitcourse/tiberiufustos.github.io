@@ -1,2 +1,2 @@
 # tiberiufustos.github.io
-Webite
+Website
